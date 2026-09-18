@@ -1,0 +1,20 @@
+BoLang 个人作品网站｜GitHub Pages 发布包
+
+重要：请先解压压缩包。不要把 ZIP 压缩包本身上传到 GitHub。
+
+解压后，上传本文件夹内部的全部内容：
+- index.html
+- assets 文件夹
+- videos 文件夹
+- .nojekyll（Windows 默认可能不显示，这是正常的）
+
+发布方式：
+1. 用 GitHub Desktop 新建名为 bolang-portfolio 的公开仓库。
+2. 将上述文件复制到该仓库的本地文件夹根目录。
+3. 在 GitHub Desktop 中提交并推送到 GitHub。
+4. 在仓库 Settings > Pages 中选择 Deploy from a branch。
+5. Branch 选择 main，Folder 选择 /(root)，保存。
+
+预计测试网址：
+https://你的GitHub用户名.github.io/bolang-portfolio/
+
